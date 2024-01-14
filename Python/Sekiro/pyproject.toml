@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "sekiro"
+version = "0.1.0"
+description = ""
+authors = ["854276106 <854276106@qq.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+unreal = "^0.1.1"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
